@@ -13,7 +13,7 @@ The calculation follows the recursive minor expansion formula, where an $N \time
 * **16-bit Signed Arithmetic:** Engineered to handle both positive and negative integers, including a custom `PrintDet` procedure designed for signed output.
 * **Low-Level Optimization:** Optimized register usage (SI, DI, BP) to minimize memory overhead and ensure stability within the DOS environment.
 
-![Matrix Calculation Output](matrix_output.png)
+![Matrix Calculation Output](matrix.png)
 
 ---
 
